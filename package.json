@@ -1,0 +1,13 @@
+{
+  "name": "electron-proxy-poc",
+  "version": "1.0.0",
+  "description": "Electron.js Proxy POC",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "GitHub",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
